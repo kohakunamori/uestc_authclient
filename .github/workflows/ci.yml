@@ -116,7 +116,7 @@ jobs:
         # openwrt_target_arch: Main target architecture
         # openwrt_target_subtarget: Target sub-architecture
         include:
-          - openwrt_version: "22.03.7"
+          - openwrt_version: "24.10.4"
             openwrt_target_arch: "x86"
             openwrt_target_subtarget: "64"
           
